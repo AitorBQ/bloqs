@@ -14,7 +14,7 @@
       "type": "connector--input",
       "accept": "connector--output",
       "acceptType": "all",
-      "name": "b7004adc-0907-416b-8498-ffaa1565d150"
+      "name": "aba3eb4e-b162-4f38-b5bf-911f89cd54b0"
     }
   ],
   "bloqClass": "bloq-invoke-function-with-arguments",
@@ -37,7 +37,7 @@
         "bloqInputId": "ARGS",
         "alias": "bloqInput",
         "acceptType": "all",
-        "name": "b7004adc-0907-416b-8498-ffaa1565d150"
+        "name": "aba3eb4e-b162-4f38-b5bf-911f89cd54b0"
       }
     ]
   ],

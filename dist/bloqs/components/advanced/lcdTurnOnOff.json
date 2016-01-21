@@ -14,7 +14,7 @@
       "type": "connector--input",
       "accept": "connector--output",
       "acceptType": "all",
-      "name": "1c1e5845-410e-4533-a09b-29942a689c5e"
+      "name": "d2fa73f6-2d91-4dca-a416-766984b49dd5"
     }
   ],
   "bloqClass": "bloq-lcd-turn-on-off-advanced",
@@ -42,7 +42,7 @@
         "bloqInputId": "LCD",
         "alias": "bloqInput",
         "acceptType": "all",
-        "name": "1c1e5845-410e-4533-a09b-29942a689c5e"
+        "name": "d2fa73f6-2d91-4dca-a416-766984b49dd5"
       }
     ]
   ],

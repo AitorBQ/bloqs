@@ -14,7 +14,7 @@
       "type": "connector--input",
       "accept": "connector--output",
       "acceptType": "all",
-      "name": "dd387a97-26a4-4438-b270-fe7dfe10fd2d"
+      "name": "0d372e24-7e61-4f36-92cb-31ac3f9c7179"
     }
   ],
   "bloqClass": "bloq-oscillator-start-advanced",
@@ -28,7 +28,7 @@
         "bloqInputId": "OSCILLATOR",
         "alias": "bloqInput",
         "acceptType": "all",
-        "name": "dd387a97-26a4-4438-b270-fe7dfe10fd2d"
+        "name": "0d372e24-7e61-4f36-92cb-31ac3f9c7179"
       }
     ]
   ],

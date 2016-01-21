@@ -14,19 +14,19 @@
       "type": "connector--input",
       "accept": "connector--output",
       "acceptType": "all",
-      "name": "facb0b1c-9fda-4883-bada-696e340f9216"
+      "name": "87e7babb-ad71-4faf-a53c-b759aed4e46b"
     },
     {
       "type": "connector--input",
       "accept": "connector--output",
       "acceptType": "all",
-      "name": "a60f51bc-f056-4fba-a85a-3636b6c1f0ab"
+      "name": "a5a28df2-110d-4ac8-a585-061b994129c9"
     },
     {
       "type": "connector--input",
       "accept": "connector--output",
       "acceptType": "all",
-      "name": "3358fc4f-2bab-4dea-8f05-2acc510e9228"
+      "name": "868f6d1c-1e5d-42ae-88df-eb50f9c8cdec"
     }
   ],
   "bloqClass": "bloq-buzzer-advance",
@@ -40,7 +40,7 @@
         "bloqInputId": "BUZZER",
         "alias": "bloqInput",
         "acceptType": "all",
-        "name": "facb0b1c-9fda-4883-bada-696e340f9216"
+        "name": "87e7babb-ad71-4faf-a53c-b759aed4e46b"
       },
       {
         "alias": "text",
@@ -50,7 +50,7 @@
         "bloqInputId": "NOTE",
         "alias": "bloqInput",
         "acceptType": "all",
-        "name": "a60f51bc-f056-4fba-a85a-3636b6c1f0ab"
+        "name": "a5a28df2-110d-4ac8-a585-061b994129c9"
       },
       {
         "alias": "text",
@@ -60,7 +60,7 @@
         "bloqInputId": "SECONDS",
         "alias": "bloqInput",
         "acceptType": "all",
-        "name": "3358fc4f-2bab-4dea-8f05-2acc510e9228"
+        "name": "868f6d1c-1e5d-42ae-88df-eb50f9c8cdec"
       },
       {
         "alias": "text",

@@ -18,7 +18,7 @@
       "type": "connector--input",
       "accept": "connector--output",
       "acceptType": "all",
-      "name": "d6cc4a86-b8f9-4bef-a853-bec9b57245f0"
+      "name": "c4b33191-a2e5-4751-b10e-242422088300"
     }
   ],
   "bloqClass": "bloq-if",
@@ -32,7 +32,7 @@
         "bloqInputId": "CONDITION",
         "alias": "bloqInput",
         "acceptType": "all",
-        "name": "d6cc4a86-b8f9-4bef-a853-bec9b57245f0"
+        "name": "c4b33191-a2e5-4751-b10e-242422088300"
       },
       {
         "alias": "text",

@@ -14,7 +14,7 @@
       "type": "connector--input",
       "accept": "connector--output",
       "acceptType": "all",
-      "name": "6d5596b4-9228-4827-bb8a-a8eca4931493"
+      "name": "630ec452-189e-41fe-a09c-03c865aa75fe"
     }
   ],
   "bloqClass": "bloq-return",
@@ -28,7 +28,7 @@
         "bloqInputId": "RETURN",
         "alias": "bloqInput",
         "acceptType": "all",
-        "name": "6d5596b4-9228-4827-bb8a-a8eca4931493"
+        "name": "630ec452-189e-41fe-a09c-03c865aa75fe"
       }
     ]
   ],

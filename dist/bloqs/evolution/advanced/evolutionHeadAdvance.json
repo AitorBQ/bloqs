@@ -14,7 +14,7 @@
       "type": "connector--input",
       "accept": "connector--output",
       "acceptType": "float",
-      "name": "825a166b-25a7-46a2-9242-3e0ef86c5d40"
+      "name": "d82b92ec-96c3-4c91-8fcd-e9b94865ed5a"
     }
   ],
   "bloqClass": "bloq-evolution-head",
@@ -28,7 +28,7 @@
         "bloqInputId": "DEGREES",
         "alias": "bloqInput",
         "acceptType": "float",
-        "name": "825a166b-25a7-46a2-9242-3e0ef86c5d40"
+        "name": "d82b92ec-96c3-4c91-8fcd-e9b94865ed5a"
       },
       {
         "alias": "text",

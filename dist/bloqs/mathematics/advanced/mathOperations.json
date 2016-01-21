@@ -10,7 +10,7 @@
       "type": "connector--input",
       "accept": "connector--output",
       "acceptType": "all",
-      "name": "3cd6bde9-a678-4ab9-848e-b7b9b434e7c6"
+      "name": "ce7a9de2-88ab-47fc-86b7-00946536f21a"
     }
   ],
   "bloqClass": "bloq-math-operations",
@@ -46,7 +46,7 @@
         "bloqInputId": "ARG",
         "alias": "bloqInput",
         "acceptType": "all",
-        "name": "3cd6bde9-a678-4ab9-848e-b7b9b434e7c6"
+        "name": "ce7a9de2-88ab-47fc-86b7-00946536f21a"
       }
     ]
   ],

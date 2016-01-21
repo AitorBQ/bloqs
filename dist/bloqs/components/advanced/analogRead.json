@@ -10,7 +10,7 @@
       "type": "connector--input",
       "accept": "connector--output",
       "acceptType": "all",
-      "name": "fde393c4-7380-4f8a-aca4-550e335bd4a5"
+      "name": "300376e9-795b-4dbd-851d-4e9842c6ac9b"
     }
   ],
   "bloqClass": "bloq-analog-read-advanced",
@@ -24,7 +24,7 @@
         "bloqInputId": "PIN",
         "alias": "bloqInput",
         "acceptType": "all",
-        "name": "fde393c4-7380-4f8a-aca4-550e335bd4a5"
+        "name": "300376e9-795b-4dbd-851d-4e9842c6ac9b"
       }
     ]
   ],
